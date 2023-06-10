@@ -1,0 +1,9 @@
+---
+title: "New post"
+author: "Me"
+date: "2023-06-10"
+categories: [thoughts]
+image: "image.jpg"
+---
+
+This is a test post.
